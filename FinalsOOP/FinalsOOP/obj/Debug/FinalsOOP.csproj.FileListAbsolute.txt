@@ -1,0 +1,12 @@
+C:\Users\joshb\source\repos\FinalsOOP\FinalsOOP\bin\Debug\FinalsOOP.exe.config
+C:\Users\joshb\source\repos\FinalsOOP\FinalsOOP\bin\Debug\FinalsOOP.exe
+C:\Users\joshb\source\repos\FinalsOOP\FinalsOOP\bin\Debug\FinalsOOP.pdb
+C:\Users\joshb\source\repos\FinalsOOP\FinalsOOP\obj\Debug\FinalsOOP.csproj.AssemblyReference.cache
+C:\Users\joshb\source\repos\FinalsOOP\FinalsOOP\obj\Debug\FinalsOOP.Properties.Resources.resources
+C:\Users\joshb\source\repos\FinalsOOP\FinalsOOP\obj\Debug\FinalsOOP.csproj.GenerateResource.cache
+C:\Users\joshb\source\repos\FinalsOOP\FinalsOOP\obj\Debug\FinalsOOP.csproj.CoreCompileInputs.cache
+C:\Users\joshb\source\repos\FinalsOOP\FinalsOOP\obj\Debug\FinalsOOP.exe
+C:\Users\joshb\source\repos\FinalsOOP\FinalsOOP\obj\Debug\FinalsOOP.pdb
+C:\Users\joshb\source\repos\FinalsOOP\FinalsOOP\obj\Debug\FinalsOOP.Form1.resources
+C:\Users\joshb\source\repos\FinalsOOP\FinalsOOP\obj\Debug\FinalsOOP.SignIn.resources
+C:\Users\joshb\source\repos\FinalsOOP\FinalsOOP\obj\Debug\FinalsOOP.Form2.resources
